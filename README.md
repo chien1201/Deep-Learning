@@ -56,8 +56,9 @@ In this lab, we will introduce the conception of Markov Decision Process(MDP) an
 - Agent training
 
 ### Result
-[Watch the q-learning gameplay demo](q_learning.mp4)
-[Watch the SARSA gameplay demo](SARSA.mp4)
+[1. Watch the q-learning gameplay demo](q_learning.mp4)
+
+[2. Watch the SARSA gameplay demo](SARSA.mp4)
 
 ## 5. Visualization & Style Transfer (LAB11-2)
 ### Description
@@ -76,6 +77,8 @@ AdaIN can transfer arbitrary new styles in real-time, combining the flexibility 
 - AdaIN
 - 
 ### Result
-[The original](kao.png)
-[The starry night style](kao_starry_night.png)
-[The 25 styles from AdaIN](outputs.png)
+[1. The original](kao.png)
+
+[2. The starry night style](kao_starry_night.png)
+
+[3. The 25 styles from AdaIN](outputs.png)
